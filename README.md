@@ -1,2 +1,2 @@
 # EBAC
-Projetos do curso de TI da Ebac
+Projetos do curso de Ciência de dados da Ebac
